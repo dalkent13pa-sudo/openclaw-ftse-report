@@ -1,9 +1,1 @@
-# Ignore temp files
-*.xlsx
-*.pyc
-__pycache__/
-*.log
-.DS_Store
-venv/
-*.csv
-etoro*.csv
+venv/\n*.csv\n*.xlsx\n*.env\n*.log
